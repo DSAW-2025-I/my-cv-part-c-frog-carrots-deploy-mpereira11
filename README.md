@@ -85,3 +85,11 @@ section {
 - Experimenta con combinaciones de colores que sean agradables a la vista.
 
 ¡Buena suerte y diviértanse creando su CV!
+
+
+## Entrega actividades
+### Flexbox-Froggy
+<img src=flexbox-froggy.png>
+
+### Grid-Garden
+<img src=grid-garden.png>

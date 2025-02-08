@@ -93,3 +93,6 @@ section {
 
 ### Grid-Garden
 <img src=grid-garden.png>
+
+### Link MI-CV
+https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-mpereira11/
